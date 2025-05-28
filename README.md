@@ -1,6 +1,6 @@
 # SABER Branding Guidelines
 
-Welcome to the official branding guidelines for **SABER** (aka UnknwnSaber), a modern, bold, and innovative cybersecurity consultancy.  
+Welcome to the official branding guidelines for **SABER** (aka UnknwnSaber)
 This repository contains the color palette, font choices, logo usage rules, and sample applications to ensure a consistent and professional brand identity across all platforms and materials.
 
 ---

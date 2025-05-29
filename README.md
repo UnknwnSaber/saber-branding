@@ -9,8 +9,6 @@ This repository contains the color palette, font choices, logo usage rules, and 
 
 - **Brand Name:** SABER (or UnknwnSaber for personal branding)
 - **Essence:** Bold, modern, secure, innovative, and trustworthy
-- **Mission:** Empower organizations and individuals to secure their digital future through cutting-edge red teaming and transparent, accessible security solutions.
-- **Core Values:** Security, transparency, technical excellence, community
 
 ---
 
